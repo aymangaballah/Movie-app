@@ -12,7 +12,7 @@
  ### [Vector Icons](https://www.npmjs.com/package/react-native-vector-icons)
  ### [Image Slider](https://www.npmjs.com/package/react-native-image-slider-box)
 ## Run on Real Phone 
-### [Click To See Run](https://drive.google.com/file/d/16HbIgBHzy9cZLlQCFT2wnt7FxbXe0cn8/view?usp=sharing)
+### [Click To See Run](https://drive.google.com/file/d/1S6eLnDULSuWqwZC0O0dxxKoxbT7fWVhD/view?usp=sharing)
 ## Details Page 
 ![details Mockup](https://user-images.githubusercontent.com/88752412/170589596-ff76d89d-da48-41f6-abbc-8cf9a33d7066.png)
 ## Similar Movie 
